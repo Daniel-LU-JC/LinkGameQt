@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/icon.png</file>
+        <file>image/single.png</file>
+        <file>image/exit.png</file>
+        <file>image/character.png</file>
+        <file>image/pic00.png</file>
+        <file>image/pic01.png</file>
+        <file>image/pic02.png</file>
+        <file>image/pic03.png</file>
+        <file>image/pic04.png</file>
+        <file>image/pic05.png</file>
+        <file>image/pic06.png</file>
+        <file>image/pic07.png</file>
+        <file>image/pic08.png</file>
+        <file>image/pic09.png</file>
+        <file>image/tool1.png</file>
+        <file>image/tool2.png</file>
+        <file>image/tool3.png</file>
+        <file>image/double.png</file>
+        <file>image/load.png</file>
+        <file>image/title.png</file>
+        <file>image/character2.png</file>
+        <file>image/character3.png</file>
+    </qresource>
+</RCC>
